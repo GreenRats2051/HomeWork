@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Developer PC\\source\\repos\\4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9456B374-8B7B-4148-8C99-8D4DB87A4EF9}|4\\4.csproj|c:\\users\\developer pc\\source\\repos\\4\\4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9456B374-8B7B-4148-8C99-8D4DB87A4EF9}|4\\4.csproj|solutionrelative:4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9456B374-8B7B-4148-8C99-8D4DB87A4EF9}|4\\4.csproj|c:\\users\\developer pc\\source\\repos\\4\\4\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9456B374-8B7B-4148-8C99-8D4DB87A4EF9}|4\\4.csproj|solutionrelative:4\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9456B374-8B7B-4148-8C99-8D4DB87A4EF9}|4\\4.csproj|c:\\users\\developer pc\\source\\repos\\4\\4\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9456B374-8B7B-4148-8C99-8D4DB87A4EF9}|4\\4.csproj|solutionrelative:4\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\Developer PC\\source\\repos\\4\\4\\Circle.cs",
+              "RelativeDocumentMoniker": "4\\Circle.cs",
+              "ToolTip": "C:\\Users\\Developer PC\\source\\repos\\4\\4\\Circle.cs",
+              "RelativeToolTip": "4\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T16:59:38.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Figure.cs",
+              "DocumentMoniker": "C:\\Users\\Developer PC\\source\\repos\\4\\4\\Figure.cs",
+              "RelativeDocumentMoniker": "4\\Figure.cs",
+              "ToolTip": "C:\\Users\\Developer PC\\source\\repos\\4\\4\\Figure.cs",
+              "RelativeToolTip": "4\\Figure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T16:58:59.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Developer PC\\source\\repos\\4\\4\\Program.cs",
+              "RelativeDocumentMoniker": "4\\Program.cs",
+              "ToolTip": "C:\\Users\\Developer PC\\source\\repos\\4\\4\\Program.cs",
+              "RelativeToolTip": "4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T16:58:01.045Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
